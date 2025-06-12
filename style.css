@@ -31,11 +31,16 @@ input {
     font-weight: bold;
 }
 
+label {
+    margin-right: 10px;
+}
+
 #diceResult {
     margin: 25px;
 }
 
 #diceImages img{
-    width: 150px;
+    width: 100px;
     margin: 5px;
+    max-width: 20vw;
 }
